@@ -12,6 +12,8 @@
 
 - 현재 샘플 결과 화면
 
+![serve](https://user-images.githubusercontent.com/15817249/83961216-fa562b00-a8cb-11ea-8bda-4122ecefc891.jpg)
+
 ---
 
 ## Codeigniter View 에 삽입
@@ -60,6 +62,8 @@
 ```
 
 - 현재 샘플 결과 화면
+
+![2](https://user-images.githubusercontent.com/15817249/83961228-13f77280-a8cc-11ea-8851-93a49fa438a0.jpg)
 
 ---
 
