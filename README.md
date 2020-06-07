@@ -25,7 +25,7 @@
   - 생성되는 결과 디렉토리 : /public/dist
   - VueJs 수정시 **npm run buildv** 을 다시 해주셔야 합니다.
 
-- View 적용 위치 : ci/app/Views/welcome_message.php
+- View 적용 위치 : /app/Views/welcome_message.php
 
 ```html
 <html>
