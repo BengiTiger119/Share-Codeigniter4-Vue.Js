@@ -90,6 +90,6 @@
 
   - 기본 설정은 별도 분리지만, 처음 하시는분들을 위해 포함
 
-[![Epic Short Film](https://img.youtube.com/vi/lMj4APUZ1oU/0.jpg)](lMj4APUZ1oU?t=0s "REMEMBERING THE FALLEN")
+[![Epic Short Film](https://img.youtube.com/vi/lMj4APUZ1oU/0.jpg)](https://www.youtube.com/watch?v=lMj4APUZ1oU?t=0s "REMEMBERING THE FALLEN")
 
 
