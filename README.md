@@ -67,6 +67,12 @@
 
 ---
 
+## 디렉토리
+
+![7](https://user-images.githubusercontent.com/15817249/83961830-0d6bf980-a8d2-11ea-9059-c6ccc485e5fc.jpg)
+
+---
+
 ## 간단 설명
 
 - Vue 개발후, Ci 에 나오는 결과 화면을 보시면 됩니다.
