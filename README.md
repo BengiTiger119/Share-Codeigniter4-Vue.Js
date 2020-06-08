@@ -2,9 +2,11 @@
 
 ---
 
-## When developing
+## When developing ( bug fix : 2020.06.09 )
 
 - cd vuejs
+
+- npm install
 
 - npm run serve
 
