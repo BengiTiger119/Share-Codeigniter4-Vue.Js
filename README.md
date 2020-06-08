@@ -77,8 +77,8 @@
 
 - After Vue development, you can see the result screen shown in Ci.
 
-  - npm run serve ( vue 작업시 )
-  - npm run buildv ( Codeigniter 적용 )
+  - npm run serve ( when working with vue )
+  - npm run buildv ( Apply Codeigniter )
 
 - Installation using Vue-Cli
 
