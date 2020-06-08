@@ -1,4 +1,4 @@
-# CodeIgniter 4.0.4 + Vue-Cli 4.4.1
+# CodeIgniter 4.0.3 + Vue-Cli 4.4.1
 
 ### Bug Fix : Sorry. The problem that the vue development screen did not appear was solved and applied at around 3 am on June 9, 2020. ( UTC : 2020.06.08 around 5 pm )
 
