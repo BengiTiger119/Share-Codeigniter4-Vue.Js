@@ -23,7 +23,7 @@
 - npm run buildv ( Production file creation  )
 
   - Resulting directory generated : /public/dist
-  - When modifying VueJs : You have to do ![#f03c15](npm run buildv) again.
+  - When modifying VueJs : You have to do " npm run buildv " again.
 
 - View Apply Location : /app/Views/welcome_message.php
 
