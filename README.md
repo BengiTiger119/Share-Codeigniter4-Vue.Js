@@ -2,41 +2,41 @@
 
 ---
 
-## 개발시
+## When developing
 
 - cd vuejs
 
 - npm run serve
 
-- 브라우져 접속 .. http://localhost:8080/
+- Brower Connect : http://localhost:8080/
 
-- 현재 샘플 결과 화면
+- Current sample results screen
 
 ![serve](https://user-images.githubusercontent.com/15817249/83961216-fa562b00-a8cb-11ea-8bda-4122ecefc891.jpg)
 
 ---
 
-## Codeigniter View 에 삽입
+## Insert in Codeigniter View
 
 - cd vuejs
 
-- npm run buildv ( production 으로 파일 생성 )
+- npm run buildv ( Production file creation  )
 
-  - 생성되는 결과 디렉토리 : /public/dist
-  - VueJs 수정시 **npm run buildv** 을 다시 해주셔야 합니다.
+  - Resulting directory generated : /public/dist
+  - When modifying VueJs : You have to do **npm run buildv** again.
 
-- View 적용 위치 : /app/Views/welcome_message.php
+- View Apply Location : /app/Views/welcome_message.php
 
 ```html
 <html>
   <body>
-    <!-- ----------------- 원하시는 위치에  3 라인 추가 시작 -->
+    <!-- ----------------- Start adding 3 lines to the desired location -->
 
     <div id="appvue">
       <app></app>
     </div>
 
-    <!-- ----------------- 원하시는 위치에  3 라인 추가 끝 -->
+    <!-- ----------------- End adding 3 lines to the desired location -->
 
     <br />
     <br />
@@ -44,7 +44,7 @@
     <br />
     <br />
 
-    <!-- ----------------- 제일 아래 페이지에 추가 시작 -->
+    <!-- ----------------- Start adding at the bottom of the page -->
 
     <script src="https://unpkg.com/vue"></script>
     <script src="/dist/vuejs.umd.js"></script>
@@ -56,39 +56,39 @@
       }).$mount("#appvue");
     </script>
 
-    <!-- ----------------- 제일 아래 페이지에 추가 끝 -->
+    <!-- ----------------- End adding at the bottom of the page -->
   </body>
 </html>
 ```
 
-- 현재 샘플 결과 화면
+- Current sample results screen
 
 ![2](https://user-images.githubusercontent.com/15817249/83961228-13f77280-a8cc-11ea-8851-93a49fa438a0.jpg)
 
 ---
 
-## 디렉토리
+## Directory
 
 ![7](https://user-images.githubusercontent.com/15817249/83961830-0d6bf980-a8d2-11ea-9059-c6ccc485e5fc.jpg)
 
 ---
 
-## 간단 설명
+## Brief Description
 
-- Vue 개발후, Ci 에 나오는 결과 화면을 보시면 됩니다.
+- After Vue development, you can see the result screen shown in Ci.
 
   - npm run serve ( vue 작업시 )
   - npm run buildv ( Codeigniter 적용 )
 
-- Vue-Cli 을 이용해서 설치
+- Installation using Vue-Cli
 
-- Vue.js 설치후 사용하는 방법과 완전히 동일
+- It is exactly the same as the method used after installing Vue.js.
 
-- Vuejs 디렉토리 : 순수 소스 원본 자체
+- Vuejs Directory : Pure source original itself
 
-- VueJs 안에 사용한 css 은 별도로 생성하지 않고, js 안에 포함
+- Css used in VueJs is not created separately, but included in js
 
-  - 기본 설정은 별도 분리지만, 처음 하시는분들을 위해 포함
+  - The default setting is separate, but included for first-time users
 
 
 
